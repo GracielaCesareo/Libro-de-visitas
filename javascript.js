@@ -1,4 +1,3 @@
-alert('Hola');
 function mostrarTexto() {
   var inputBox = document.getElementById('cajaTexto');
   document.getElementById('textoMuestra').innerHTML = inputBox.value;
